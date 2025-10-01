@@ -152,7 +152,7 @@ We are committed to fostering a welcoming community. Please read our Code of Con
 ## 📚 Resources
 
 ### For Beginners
-- [PHP Basics - MDN](https://developer.mozilla.org/en-US/docs/Learn/PHP)
+- [PHP Basics - MDN](https://developer.mozilla.org/en-US/search?q=PHP)
 - [CSS Basics - MDN](https://developer.mozilla.org/en-US/docs/Learn/CSS)
 - [JavaScript Basics - MDN](https://developer.mozilla.org/en-US/docs/Learn/JavaScript)
 - [Git Tutorial](https://git-scm.com/docs/gittutorial)
